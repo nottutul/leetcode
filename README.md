@@ -15,4 +15,12 @@ Solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nottutul/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nottutul/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
