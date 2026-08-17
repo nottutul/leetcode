@@ -6,6 +6,7 @@ Solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nottutul/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
