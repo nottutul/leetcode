@@ -23,6 +23,7 @@ Solutions
 | [0001-two-sum](https://github.com/nottutul/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nottutul/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nottutul/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,8 +43,13 @@ Solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/nottutul/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nottutul/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
