@@ -14,6 +14,7 @@ Solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/nottutul/leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Solutions
 | [0014-longest-common-prefix](https://github.com/nottutul/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nottutul/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/nottutul/leetcode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
