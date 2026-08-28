@@ -28,11 +28,13 @@ Solutions
 | [0027-remove-element](https://github.com/nottutul/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nottutul/leetcode/tree/master/0118-pascals-triangle) |
+| [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nottutul/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nottutul/leetcode/tree/master/0013-roman-to-integer) |
+| [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +67,8 @@ Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nottutul/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
