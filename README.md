@@ -29,12 +29,14 @@ Solutions
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nottutul/leetcode/tree/master/0118-pascals-triangle) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nottutul/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nottutul/leetcode/tree/master/0013-roman-to-integer) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +74,8 @@ Solutions
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
