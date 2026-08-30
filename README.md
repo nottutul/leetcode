@@ -33,6 +33,7 @@ Solutions
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nottutul/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1672-richest-customer-wealth](https://github.com/nottutul/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@ Solutions
 | ------- |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nottutul/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/nottutul/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
