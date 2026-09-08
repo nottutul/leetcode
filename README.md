@@ -39,6 +39,7 @@ Solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nottutul/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nottutul/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/nottutul/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/nottutul/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -112,4 +113,8 @@ Solutions
 | ------- |
 | [0739-daily-temperatures](https://github.com/nottutul/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nottutul/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/nottutul/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
