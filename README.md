@@ -12,6 +12,7 @@ Solutions
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/nottutul/leetcode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
