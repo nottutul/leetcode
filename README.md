@@ -13,6 +13,7 @@ Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/nottutul/leetcode/tree/master/2235-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/nottutul/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Solutions
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nottutul/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/nottutul/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Database
 |  |
 | ------- |
