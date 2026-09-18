@@ -11,6 +11,7 @@ Solutions
 | [0013-roman-to-integer](https://github.com/nottutul/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0263-ugly-number](https://github.com/nottutul/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/nottutul/leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/nottutul/leetcode/tree/master/2485-find-the-pivot-integer) |
