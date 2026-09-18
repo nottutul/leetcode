@@ -4,35 +4,22 @@ public:
         if (n <= 0) {
             return false;
         }
-
-        vector<int> ans;
-
-        while (n % 2 == 0) {
-            ans.push_back(2);
-            n = n / 2;
-        }
-
-        for (long long int i = 3; i * i <= n; i = i + 2) {
-            while (n % i == 0) {
-                ans.push_back(i);
-                n = n / i;
+        while (n >= 0) {
+            if (n % 2 == 0) {
+                n = n / 2;
+            }
+            if (n % 3 == 0) {
+                n = n / 3;
+            }
+            if (n % 5 == 0) {
+                n = n / 5;
+            }
+            if (n == 1) {
+                return true;
+            } else if (n % 2 != 0 && n % 3 != 0 && n % 5 != 0) {
+                return false;
             }
         }
-
-        if (n > 2) {
-            ans.push_back(n);
-        }
-
-        bool ugly = true;
-        for (int x : ans) {
-            if (x == 2 || x == 3 || x == 5) {
-                ugly = true;
-
-            } else {
-                ugly = false;
-                break;
-            }
-        }
-        return ugly;
+        return false;
     }
 };
