@@ -14,6 +14,7 @@ Solutions
 | [0263-ugly-number](https://github.com/nottutul/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/nottutul/leetcode/tree/master/0728-self-dividing-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2235-add-two-integers](https://github.com/nottutul/leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/nottutul/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ Solutions
 | [0013-roman-to-integer](https://github.com/nottutul/leetcode/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nottutul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -137,4 +139,8 @@ Solutions
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/nottutul/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/nottutul/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/nottutul/leetcode/tree/master/0620-not-boring-movies) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
