@@ -68,6 +68,7 @@ Solutions
 | [0151-reverse-words-in-a-string](https://github.com/nottutul/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/nottutul/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3498-reverse-degree-of-a-string](https://github.com/nottutul/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Solutions
 | ------- |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nottutul/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/nottutul/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
