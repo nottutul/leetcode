@@ -171,4 +171,20 @@ Solutions
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nottutul/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nottutul/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nottutul/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nottutul/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nottutul/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/nottutul/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
