@@ -8,7 +8,7 @@ public:
 
         string roman;
 
-        for (auto [val, key] : romanValue) {
+        for (auto& [val, key] : romanValue) {
             if (num == 0) {
                 break;
             }
