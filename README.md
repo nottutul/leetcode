@@ -121,6 +121,7 @@ Solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nottutul/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nottutul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/nottutul/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/nottutul/leetcode/tree/master/0739-daily-temperatures) |
@@ -181,6 +182,7 @@ Solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nottutul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/nottutul/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nottutul/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nottutul/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -190,6 +192,7 @@ Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nottutul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/nottutul/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nottutul/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nottutul/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -207,6 +210,7 @@ Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nottutul/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/nottutul/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nottutul/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nottutul/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
