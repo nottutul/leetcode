@@ -13,6 +13,7 @@ Solutions
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/nottutul/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/nottutul/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/nottutul/leetcode/tree/master/0836-rectangle-overlap) |
@@ -41,6 +42,7 @@ Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nottutul/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nottutul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/nottutul/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
@@ -63,6 +65,7 @@ Solutions
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nottutul/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nottutul/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nottutul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -107,6 +110,7 @@ Solutions
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nottutul/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nottutul/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -114,6 +118,7 @@ Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nottutul/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/nottutul/leetcode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Divide and Conquer
 |  |
@@ -123,6 +128,7 @@ Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
