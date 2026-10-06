@@ -62,6 +62,7 @@ Solutions
 | [0013-roman-to-integer](https://github.com/nottutul/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nottutul/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nottutul/leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nottutul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -76,6 +77,7 @@ Solutions
 | [0020-valid-parentheses](https://github.com/nottutul/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nottutul/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/nottutul/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/nottutul/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nottutul/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nottutul/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -104,6 +106,7 @@ Solutions
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nottutul/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nottutul/leetcode/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
