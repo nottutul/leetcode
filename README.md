@@ -39,6 +39,7 @@ Solutions
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nottutul/leetcode/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nottutul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0636-exclusive-time-of-functions](https://github.com/nottutul/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
@@ -58,6 +59,7 @@ Solutions
 | [0001-two-sum](https://github.com/nottutul/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/nottutul/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nottutul/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nottutul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -98,6 +100,7 @@ Solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -110,6 +113,7 @@ Solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nottutul/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +121,7 @@ Solutions
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -234,4 +239,8 @@ Solutions
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nottutul/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
