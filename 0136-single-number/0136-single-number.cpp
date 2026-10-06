@@ -1,16 +1,24 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for (auto n : nums) {
-            mp[n]++;
-        }
+        // unordered_map<int, int> mp;
+        // for (auto n : nums) {
+        //     mp[n]++;
+        // }
 
-        for (auto e : mp) {
-            if (e.second == 1) {
-                return e.first;
-            }
+        // for (auto e : mp) {
+        //     if (e.second == 1) {
+        //         return e.first;
+        //     }
+        // }
+        // return 0;
+
+        // using xor
+
+        int ans = 0;
+        for (auto n : nums) {
+            ans = ans ^ n;
         }
-        return 0;
+        return ans;
     }
 };
