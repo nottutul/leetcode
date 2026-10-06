@@ -39,6 +39,7 @@ Solutions
 | [0027-remove-element](https://github.com/nottutul/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nottutul/leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/nottutul/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nottutul/leetcode/tree/master/0217-contains-duplicate) |
@@ -133,6 +134,7 @@ Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nottutul/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
