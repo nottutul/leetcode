@@ -37,6 +37,7 @@ Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/nottutul/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nottutul/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nottutul/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nottutul/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/nottutul/leetcode/tree/master/0136-single-number) |
@@ -99,6 +100,7 @@ Solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/nottutul/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nottutul/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nottutul/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +112,7 @@ Solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nottutul/leetcode/tree/master/0217-contains-duplicate) |
@@ -262,4 +265,12 @@ Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
