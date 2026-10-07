@@ -7,11 +7,11 @@ public:
             mps[s[i]] = i;
             mpt[t[i]] = i;
         }
-        
-        int res = 0;
+
+        int pd = 0;
         for (char c : s) {
-            res += abs(mps[c] - mpt[c]);
+            pd += abs(mps[c] - mpt[c]);
         }
-        return res;
+        return pd;
     }
 };
