@@ -52,6 +52,7 @@ Solutions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nottutul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nottutul/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/nottutul/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/nottutul/leetcode/tree/master/0561-array-partition) |
 | [0636-exclusive-time-of-functions](https://github.com/nottutul/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/nottutul/leetcode/tree/master/0739-daily-temperatures) |
@@ -140,6 +141,7 @@ Solutions
 | [0414-third-maximum-number](https://github.com/nottutul/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/nottutul/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/nottutul/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/nottutul/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -167,6 +169,7 @@ Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/nottutul/leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -288,6 +291,7 @@ Solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/nottutul/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/nottutul/leetcode/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nottutul/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
