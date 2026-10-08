@@ -57,6 +57,7 @@ Solutions
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/nottutul/leetcode/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/nottutul/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/nottutul/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nottutul/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nottutul/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -122,6 +123,7 @@ Solutions
 | [0349-intersection-of-two-arrays](https://github.com/nottutul/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/nottutul/leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/nottutul/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/nottutul/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/nottutul/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
@@ -146,6 +148,7 @@ Solutions
 | [0561-array-partition](https://github.com/nottutul/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/nottutul/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/nottutul/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
