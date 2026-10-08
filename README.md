@@ -104,6 +104,7 @@ Solutions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nottutul/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/nottutul/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/nottutul/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Trie
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Solutions
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nottutul/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/nottutul/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/nottutul/leetcode/tree/master/3813-vowel-consonant-score) |
 ## Matrix
 |  |
 | ------- |
