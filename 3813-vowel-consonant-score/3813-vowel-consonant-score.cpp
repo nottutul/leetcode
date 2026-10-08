@@ -10,9 +10,11 @@ public:
                 con++;
             }
         }
+
         if (con > 0) {
             score = vow / con;
         }
+
         return score;
     }
 };
