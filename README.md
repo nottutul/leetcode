@@ -13,6 +13,7 @@ Solutions
 | [0048-rotate-image](https://github.com/nottutul/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/nottutul/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nottutul/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
@@ -203,6 +204,7 @@ Solutions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nottutul/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nottutul/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/nottutul/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -327,4 +329,8 @@ Solutions
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nottutul/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/nottutul/leetcode/tree/master/0506-relative-ranks) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nottutul/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
