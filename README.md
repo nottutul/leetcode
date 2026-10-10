@@ -10,6 +10,7 @@ Solutions
 | [0009-palindrome-number](https://github.com/nottutul/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/nottutul/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nottutul/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/nottutul/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/nottutul/leetcode/tree/master/0263-ugly-number) |
@@ -37,6 +38,7 @@ Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/nottutul/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nottutul/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/nottutul/leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/nottutul/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nottutul/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
@@ -208,6 +210,7 @@ Solutions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nottutul/leetcode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nottutul/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/nottutul/leetcode/tree/master/1672-richest-customer-wealth) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nottutul/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
