@@ -13,6 +13,7 @@ Solutions
 | [0048-rotate-image](https://github.com/nottutul/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nottutul/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/nottutul/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nottutul/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nottutul/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
@@ -175,6 +176,7 @@ Solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nottutul/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/nottutul/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nottutul/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
@@ -333,4 +335,8 @@ Solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nottutul/leetcode/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nottutul/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
