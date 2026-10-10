@@ -67,6 +67,7 @@ Solutions
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/nottutul/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3643-flip-square-submatrix-vertically](https://github.com/nottutul/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/nottutul/leetcode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ Solutions
 | [0905-sort-array-by-parity](https://github.com/nottutul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nottutul/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/nottutul/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3643-flip-square-submatrix-vertically](https://github.com/nottutul/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Linked List
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Solutions
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nottutul/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/nottutul/leetcode/tree/master/1672-richest-customer-wealth) |
+| [3643-flip-square-submatrix-vertically](https://github.com/nottutul/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Monotonic Stack
 |  |
 | ------- |
