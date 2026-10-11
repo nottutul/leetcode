@@ -62,6 +62,7 @@ Solutions
 | [0636-exclusive-time-of-functions](https://github.com/nottutul/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/nottutul/leetcode/tree/master/0739-daily-temperatures) |
+| [0804-unique-morse-code-words](https://github.com/nottutul/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0905-sort-array-by-parity](https://github.com/nottutul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nottutul/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/nottutul/leetcode/tree/master/1051-height-checker) |
@@ -94,6 +95,7 @@ Solutions
 | [0575-distribute-candies](https://github.com/nottutul/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/nottutul/leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/nottutul/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -113,6 +115,7 @@ Solutions
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/nottutul/leetcode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/nottutul/leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/nottutul/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nottutul/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nottutul/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nottutul/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
