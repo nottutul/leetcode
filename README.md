@@ -67,6 +67,7 @@ Solutions
 | [0922-sort-array-by-parity-ii](https://github.com/nottutul/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nottutul/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/nottutul/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nottutul/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nottutul/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -99,6 +100,7 @@ Solutions
 | [0804-unique-morse-code-words](https://github.com/nottutul/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nottutul/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nottutul/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -170,6 +172,7 @@ Solutions
 | [0905-sort-array-by-parity](https://github.com/nottutul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nottutul/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/nottutul/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
@@ -199,6 +202,7 @@ Solutions
 | [0169-majority-element](https://github.com/nottutul/leetcode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/nottutul/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/nottutul/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -335,11 +339,13 @@ Solutions
 | ------- |
 | [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/nottutul/leetcode/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/nottutul/leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
