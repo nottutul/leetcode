@@ -58,6 +58,7 @@ Solutions
 | [0500-keyboard-row](https://github.com/nottutul/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/nottutul/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nottutul/leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/nottutul/leetcode/tree/master/0575-distribute-candies) |
 | [0636-exclusive-time-of-functions](https://github.com/nottutul/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/nottutul/leetcode/tree/master/0739-daily-temperatures) |
@@ -90,6 +91,7 @@ Solutions
 | [0389-find-the-difference](https://github.com/nottutul/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nottutul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/nottutul/leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/nottutul/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
