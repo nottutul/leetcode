@@ -3,7 +3,7 @@ public:
     int distributeCandies(vector<int>& candyType) {
         int n = candyType.size();
 
-        set<int> candy;
+        unordered_set<int> candy;
         for (int x : candyType) {
             candy.insert(x);
         }
