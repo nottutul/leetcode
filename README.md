@@ -22,6 +22,7 @@ Solutions
 | [0836-rectangle-overlap](https://github.com/nottutul/leetcode/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nottutul/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nottutul/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/nottutul/leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/nottutul/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ Solutions
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/nottutul/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nottutul/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nottutul/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nottutul/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/nottutul/leetcode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
