@@ -21,6 +21,7 @@ Solutions
 | [0509-fibonacci-number](https://github.com/nottutul/leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/nottutul/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/nottutul/leetcode/tree/master/0836-rectangle-overlap) |
+| [0976-largest-perimeter-triangle](https://github.com/nottutul/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/nottutul/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nottutul/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -73,6 +74,7 @@ Solutions
 | [0905-sort-array-by-parity](https://github.com/nottutul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nottutul/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nottutul/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/nottutul/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nottutul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nottutul/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
@@ -184,6 +186,7 @@ Solutions
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/nottutul/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/nottutul/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/nottutul/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/nottutul/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/nottutul/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
@@ -346,6 +349,7 @@ Solutions
 | [0455-assign-cookies](https://github.com/nottutul/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nottutul/leetcode/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nottutul/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/nottutul/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -355,6 +359,7 @@ Solutions
 | ------- |
 | [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/nottutul/leetcode/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/nottutul/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
@@ -380,4 +385,8 @@ Solutions
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nottutul/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/nottutul/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
