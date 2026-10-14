@@ -86,6 +86,7 @@ Solutions
 | [1480-running-sum-of-1d-array](https://github.com/nottutul/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/nottutul/leetcode/tree/master/1528-shuffle-string) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nottutul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/nottutul/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nottutul/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -116,6 +117,7 @@ Solutions
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/nottutul/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nottutul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nottutul/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
@@ -194,6 +196,7 @@ Solutions
 | [1200-minimum-absolute-difference](https://github.com/nottutul/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/nottutul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3467-transform-array-by-parity](https://github.com/nottutul/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
