@@ -32,6 +32,7 @@ Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nottutul/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nottutul/leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/nottutul/leetcode/tree/master/0509-fibonacci-number) |
@@ -131,6 +132,7 @@ Solutions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nottutul/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/nottutul/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nottutul/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nottutul/leetcode/tree/master/0014-longest-common-prefix) |
@@ -162,6 +164,7 @@ Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nottutul/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/nottutul/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/nottutul/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nottutul/leetcode/tree/master/0088-merge-sorted-array) |
@@ -415,4 +418,8 @@ Solutions
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nottutul/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nottutul/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
