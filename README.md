@@ -93,6 +93,7 @@ Solutions
 | [2778-sum-of-squares-of-special-elements](https://github.com/nottutul/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nottutul/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3467-transform-array-by-parity](https://github.com/nottutul/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nottutul/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nottutul/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/nottutul/leetcode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Hash Table
@@ -122,6 +123,7 @@ Solutions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nottutul/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nottutul/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nottutul/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -388,10 +390,12 @@ Solutions
 | ------- |
 | [0231-power-of-two](https://github.com/nottutul/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/nottutul/leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nottutul/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nottutul/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/nottutul/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Polygons
 |  |
 | ------- |
