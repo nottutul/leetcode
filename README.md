@@ -91,6 +91,7 @@ Solutions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nottutul/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nottutul/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nottutul/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3467-transform-array-by-parity](https://github.com/nottutul/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3643-flip-square-submatrix-vertically](https://github.com/nottutul/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/nottutul/leetcode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
@@ -119,6 +120,7 @@ Solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nottutul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nottutul/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nottutul/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -394,4 +396,12 @@ Solutions
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/nottutul/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nottutul/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nottutul/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
