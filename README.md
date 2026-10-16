@@ -36,6 +36,7 @@ Solutions
 | [0070-climbing-stairs](https://github.com/nottutul/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nottutul/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nottutul/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/nottutul/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/nottutul/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nottutul/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -231,6 +232,7 @@ Solutions
 | [0136-single-number](https://github.com/nottutul/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/nottutul/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/nottutul/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/nottutul/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/nottutul/leetcode/tree/master/0645-set-mismatch) |
 ## Counting Sort
