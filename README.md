@@ -23,6 +23,7 @@ Solutions
 | [0836-rectangle-overlap](https://github.com/nottutul/leetcode/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/nottutul/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nottutul/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/nottutul/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nottutul/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nottutul/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nottutul/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -38,6 +39,7 @@ Solutions
 | [0119-pascals-triangle-ii](https://github.com/nottutul/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/nottutul/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/nottutul/leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/nottutul/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nottutul/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -426,4 +428,16 @@ Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nottutul/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nottutul/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nottutul/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nottutul/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
