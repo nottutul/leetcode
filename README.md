@@ -99,6 +99,7 @@ Solutions
 | [1672-richest-customer-wealth](https://github.com/nottutul/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nottutul/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nottutul/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nottutul/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nottutul/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nottutul/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nottutul/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -214,6 +215,7 @@ Solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nottutul/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/nottutul/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/nottutul/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nottutul/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nottutul/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3467-transform-array-by-parity](https://github.com/nottutul/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
@@ -223,6 +225,7 @@ Solutions
 | [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nottutul/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nottutul/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nottutul/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/nottutul/leetcode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Divide and Conquer
 |  |
