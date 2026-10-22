@@ -27,6 +27,7 @@ Solutions
 | [1137-n-th-tribonacci-number](https://github.com/nottutul/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nottutul/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nottutul/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1641-count-sorted-vowel-strings](https://github.com/nottutul/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nottutul/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/nottutul/leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/nottutul/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -41,6 +42,7 @@ Solutions
 | [0509-fibonacci-number](https://github.com/nottutul/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/nottutul/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nottutul/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1641-count-sorted-vowel-strings](https://github.com/nottutul/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 ## Memoization
 |  |
 | ------- |
@@ -457,4 +459,8 @@ Solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nottutul/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/nottutul/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
