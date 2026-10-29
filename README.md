@@ -197,6 +197,7 @@ Solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nottutul/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nottutul/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nottutul/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Sorting
 |  |
@@ -424,6 +425,7 @@ Solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nottutul/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nottutul/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/nottutul/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/nottutul/leetcode/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nottutul/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
