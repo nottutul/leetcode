@@ -19,6 +19,7 @@ Solutions
 | [0263-ugly-number](https://github.com/nottutul/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nottutul/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nottutul/leetcode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nottutul/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/nottutul/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/nottutul/leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/nottutul/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -76,6 +77,7 @@ Solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nottutul/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/nottutul/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nottutul/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nottutul/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/nottutul/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/nottutul/leetcode/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/nottutul/leetcode/tree/master/0500-keyboard-row) |
